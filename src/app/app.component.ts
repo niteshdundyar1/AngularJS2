@@ -44,7 +44,7 @@ const HEROES: Hero[] = [
    styles: [`
   .selected {
     background-color: #CFD8DC !important;
-    color: White;
+    color: red;
   }
   .heroes {
     margin: 0 0 2em 0;
